@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Crud</string>
+    <string name="add_word">Add Word</string>
+</resources>
